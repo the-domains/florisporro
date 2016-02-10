@@ -6,22 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T15:25:32.594Z'
-dateModified: '2016-02-10T15:25:21.340Z'
-title: Floris Porro - Professional geek
+datePublished: '2016-02-10T15:32:12.479Z'
+dateModified: '2016-02-10T15:32:09.263Z'
+title: "I'm a professional geek."
 author: []
+sourcePath: _posts/2016-02-10-floris-porro-professional-geek.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-floris-porro-professional-geek.md
-published: true
 url: floris-porro-professional-geek/index.html
 _type: Article
 
 ---
-# Floris Porro - Professional geek
+# I'm a professional geek.
 
-I'm busy with all things technology.
+After completing an education in Audiovisual Production, I've had the pleasure of working on a large variety of projects. Anything from complex multiscreen projection setups to flying drones and creating custom video production tools. I'm at a distinct advantage of understanding both creativity and technology. I don't claim to be good at everything, but can easily tell the good from the bad.
