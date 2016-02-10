@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[florisporro.com]]></title>
+        <description><![CDATA[florisporro.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 15:13:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Floris Porro - Professional geek]]></title>
+            <description><![CDATA[<article><h1>Floris Porro - Professional geek</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c297fd1a-bd1e-4c06-8635-5289549938a2.jpg"></article>]]></description>
+            <link>undefinedfloris-porro-professional-geek/index.html</link>
+            <guid isPermaLink="false">a5e544c8-efe0-4120-a548-fb522d51dd9c</guid>
+            <pubDate>Wed, 10 Feb 2016 15:11:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
