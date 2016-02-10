@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T15:32:12.479Z'
-dateModified: '2016-02-10T15:32:09.263Z'
+datePublished: '2016-02-10T15:32:35.054Z'
+dateModified: '2016-02-10T15:32:30.821Z'
 title: "I'm a professional geek."
 author: []
 sourcePath: _posts/2016-02-10-floris-porro-professional-geek.md
