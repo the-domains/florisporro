@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T15:13:08.516Z'
-dateModified: '2016-02-10T15:12:16.127Z'
+datePublished: '2016-02-10T15:25:32.594Z'
+dateModified: '2016-02-10T15:25:21.340Z'
 title: Floris Porro - Professional geek
 author: []
 authors: []
@@ -22,6 +22,6 @@ url: floris-porro-professional-geek/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c297fd1a-bd1e-4c06-8635-5289549938a2.jpg)
-
 # Floris Porro - Professional geek
+
+I'm busy with all things technology.
