@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[florisporro.com]]></title>
+        <description><![CDATA[florisporro.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 09:56:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toperators - the new portfolio platform for creative freelancers.]]></title>
+            <description><![CDATA[<article><h1>Toperators - the new portfolio platform for creative freelancers.</h1><p>The world is changing and traditional networking doesn't cut it anymore. We don't know about you, but we're not very good at that stuff anyway. Employers prefer to use local freelancers, but finding the right talent in the right location is not easy.</p></article>]]></description>
+            <link>http://toperators.com/</link>
+            <guid isPermaLink="false">fcb0f234-bbc9-4da7-a0ed-70bfeca37ecb</guid>
+            <pubDate>Thu, 01 Sep 2016 09:56:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
