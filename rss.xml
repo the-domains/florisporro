@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[florisporro.com]]></title>
         <description><![CDATA[florisporro.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/florisporro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 09:56:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 09:56:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/florisporro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aviofilm - Films for a digital world.]]></title>
+            <description><![CDATA[<article><h1>Aviofilm - Films for a digital world.</h1><p>If you're here chances are you already know a film is the next step for your company. To inspire you with ideas, and to open a dialogue on collaboration, we maintain a gallery of our own works, snippets, glimpses and values as an exhibition of what we believe in.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d484369507a9aa86231e4ddf19454dac/noop.jpg?input=http%3A%2F%2Faviofilm.com%2Fimages%2Fvfx.jpg"></article>]]></description>
+            <link>http://aviofilm.com/</link>
+            <guid isPermaLink="false">6b05a309-8946-4829-bc09-6820f4b7482c</guid>
+            <pubDate>Thu, 01 Sep 2016 09:56:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toperators - the new portfolio platform for creative freelancers.]]></title>
             <description><![CDATA[<article><h1>Toperators - the new portfolio platform for creative freelancers.</h1><p>The world is changing and traditional networking doesn't cut it anymore. We don't know about you, but we're not very good at that stuff anyway. Employers prefer to use local freelancers, but finding the right talent in the right location is not easy.</p></article>]]></description>
